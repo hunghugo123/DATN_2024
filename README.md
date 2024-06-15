@@ -22,4 +22,4 @@ sau:
 –	Cài đặt python.
 –	Cài đặt các thư viện.
 –	Thiết lập port trong tệp "main.py" và chạy ứng dụng bằng cách nhập "python3 main.py" trên CMD.
-–	Thực hiện các yêu cầu chẩn đoán bằng việc gọi API từ link "http://localhost:port/predict".
+–	Thực hiện các yêu cầu chẩn đoán bằng việc gọi API từ link "http://localhost:port/predict"
